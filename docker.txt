@@ -1,0 +1,18 @@
+=========================
+Docker Features 
+=========================
+[1] Consistent environment
+[2] Fast and Lightweight
+[3] Isolated and Secure
+
+Requirements for a MERN project to work
+[OS],[Dependencies],[ Source Code]
+
+Docker Image
+[ [OS],[Dependencies],[ Source Code] ]
+
+Docker Container
+[ [Docker Image] ]
+# We can run many Docker Container using a single Docker Image
+
+basic docker file for react 
